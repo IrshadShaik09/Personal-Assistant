@@ -47,6 +47,7 @@ If any one do find some bugs and can add some extra features to it, definitely y
 
 ## Authors
 
+- [@IrshadShaik](https://github.com/IrshadShaik09).
+
 - [@ghousetazeem](https://www.github.com/ghousetazeem)
-- [@MohammedMaaz0213](https://github.com/MohammedMaaz0213)
 
